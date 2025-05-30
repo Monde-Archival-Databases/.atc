@@ -6,15 +6,6 @@ build:
 type:
 dotdocx:
 -name:
-"file":
-uses:
-pass:
--code:
--name:
-- "generation"
-deploy:
-code:
-push: 
--name:
-"draft":
+"file"
+-push code:
 --force push
