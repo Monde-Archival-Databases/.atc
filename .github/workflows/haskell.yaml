@@ -14,4 +14,4 @@ pass:
 - "generation"
 deploy:
 -push code 
---force push 
+--force push
