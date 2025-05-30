@@ -13,5 +13,8 @@ pass:
 -name:
 - "generation"
 deploy:
--push code 
+code:
+push: 
+-name:
+"draft":
 --force push
