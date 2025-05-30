@@ -2,39 +2,16 @@ stage:
 set up:
 build:
 -name:
--a "PROPRE_UI": 
-steps:
-run job(s):
--create:
+"dev.envro":
+type:
+dotdocx:
 -name:
-"chain-link(s)":
+"file":
+uses:
+pass:
+-code:
 -name:
--server:
--command:
--rule set(s):
--upon breach of informtaion:
--set up:
--a new link to a seperate hp.dns/ec2/file/path:
--run as a new:
--vpn.html:
--name:
-"emulattor.html/path/way/file":
--name:
-build: 
--compress:
-a new .zip file:
-build:
--configuration:
--link:
--name:
-"PROPRE_CI_PIPELINE"
-run job(s):
-commit:
--to repo:
--name:
--[prof.marcell]
+- "generation"
 deploy:
-run code:
--push draft
+-push code 
 --force push 
-      
